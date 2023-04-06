@@ -3,7 +3,7 @@
 - Pour toute les solutions :
     - utilisation d'une BD de type oracle ou phpMyAdmin (Plutot phpMyAdmin car gratuit mais moins un peu moins fiable)
 
-- solution 1 : 
+- SOLUTION 1 : 
     - utilisation de Vue.JS 
         - Les plus : 
             - site fluide et responsive (multiplateforme) avec architecture compréhensive
@@ -26,7 +26,9 @@
     Cette solution permetteras d'avoir un site robuste, responsive, fiable, dynamique et ergonomique tout 
     en étant assez simple de conception. C'est le défi que j'aimerais relever.
 
-- solution 2
+--------------------------------------------------------------------------------------------------
+
+- SOLUTION 2
     - utilisation de l'architecture MVC
         - les plus : 
             - utilisation de language simple tel que  : 
@@ -43,7 +45,9 @@
             
     Cette solution est réalisable, cependant il n'y auras pas vraiment d'apprentissage.
 
-- solution 3 
+--------------------------------------------------------------------------------------------------
+
+- SOLUTION 3
     - pareil que la 2 mais sans l'architecture MVC.
     - les plus : 
             - utilisation de language simple tel que  : 
@@ -60,6 +64,7 @@
             
     Cette solution est réalisable, cependant il n'y auras pas vraiment d'apprentissage.
 
+--------------------------------------------------------------------------------------------------
 
 
 
