@@ -6,7 +6,6 @@
 
 
 # SOLUTION 1 :
-- [ ] Ma case à cocher
     - utilisation de Vue.js
     - Les plus : 
         - site fluide et responsive (multiplateforme) avec une architecture compréhensible
