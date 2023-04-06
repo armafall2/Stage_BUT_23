@@ -3,7 +3,7 @@
 - Pour toute les solutions :
     - utilisation d'une BD de type oracle ou phpMyAdmin (Plutot phpMyAdmin car gratuit mais moins un peu moins fiable)
 
-# SOLUTION 1 : []
+# SOLUTION 1 : - [ ]
     - utilisation de Vue.js
     - Les plus : 
         - site fluide et responsive (multiplateforme) avec une architecture compréhensible
