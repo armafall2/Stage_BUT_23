@@ -3,7 +3,7 @@
 - Pour toute les solutions :
     - utilisation d'une BD de type oracle ou phpMyAdmin (Plutot phpMyAdmin car gratuit mais moins un peu moins fiable)
 
-- SOLUTION 1 : 
+# SOLUTION 1 : 
     - utilisation de Vue.JS 
         - Les plus : 
             - site fluide et responsive (multiplateforme) avec architecture compréhensive
@@ -28,7 +28,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-- SOLUTION 2
+#  SOLUTION 2
     - utilisation de l'architecture MVC
         - les plus : 
             - utilisation de language simple tel que  : 
@@ -47,7 +47,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-- SOLUTION 3
+#  SOLUTION 3
     - pareil que la 2 mais sans l'architecture MVC.
     - les plus : 
             - utilisation de language simple tel que  : 
@@ -66,6 +66,20 @@
 
 --------------------------------------------------------------------------------------------------
 
+#  SOLUTION 4
+    - uniquement un site d'affichage
+    - les plus :
+        - très sommaire
+    - les moins :
+        - juste pour de l'affichage donc pas de fonctionnalité supplémentaire
+    
+    Cette solution est réalisable, mais ne répond pas vraiment au besoin
+
+
+--------------------------------------------------------------------------------------------------
+
+Pour l'application, je peut tenter de faire une application simple de gestion des stocks.
+C'est a dire une application qui permet juste une visualisation de la base de donné et des fonctionnalité basique ( ajout, suppression, modification ). 
 
 
 
