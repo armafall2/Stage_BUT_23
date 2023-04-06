@@ -3,11 +3,10 @@
 - Pour toute les solutions :
     - utilisation d'une BD de type oracle ou phpMyAdmin (Plutot phpMyAdmin car gratuit mais moins un peu moins fiable)
 
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
 
-# SOLUTION 1 : - [ ]
+
+# SOLUTION 1 :
+- [ ] Ma case à cocher
     - utilisation de Vue.js
     - Les plus : 
         - site fluide et responsive (multiplateforme) avec une architecture compréhensible
