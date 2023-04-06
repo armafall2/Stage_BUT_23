@@ -78,6 +78,8 @@
 
 --------------------------------------------------------------------------------------------------
 
+# Application
+
 Pour l'application, je peut tenter de faire une application simple de gestion des stocks.
 C'est a dire une application qui permet juste une visualisation de la base de donné et des fonctionnalité basique ( ajout, suppression, modification ). 
 
