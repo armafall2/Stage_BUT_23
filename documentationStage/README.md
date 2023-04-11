@@ -16,6 +16,7 @@ La solution Vue.js permet de créer des sites web responsives, dynamiques et con
 - Compatible avec de nombreux langages de programmation
 - Peut être utilisé pour créer des applications multiplateformes
 - Facilite la création d'interfaces utilisateur réactives et interactives
+- site et code robuste = ne sera pas souvent en maintenance
 
 ## Points négatifs
 - Nécessite une autoformation
@@ -50,23 +51,24 @@ j'aime pas du tout
 
 --------------------------------------------------------------------------------------------------
 
-#  SOLUTION 3
-    - pareil que la 2 mais sans l'architecture MVC.
-    - Les plus : 
-        - utilisation de langages simples tels que : 
-            - PHP
-            - HTML
-            - JSON
-        - site fluide et responsive (multiplateforme) avec une architecture compréhensible
-        - site robuste et fiable
-        - solution très traditionnelle
+# Solution N°3 - HTML/CSS/PHP sans MVC
 
-    - Les moins :
-        - Assez fastidieux à mettre en place
-        - basé principalement sur du PHP qui n'est pas un langage où je suis performant
-        
-    Cette solution est réalisable, cependant il n'y aura pas vraiment d'apprentissage.
+## Description
+La solution HTML/CSS/PHP sans MVC est une option de développement web simple et flexible qui peut être utilisée pour créer des sites web de toutes tailles. Elle ne nécessite pas la connaissance de la structure MVC et peut être mise en place rapidement.
 
+## Points positifs
+- Option simple et flexible pour le développement web
+- Peut être utilisée pour créer des sites web de toutes tailles
+- Peut être mise en place rapidement
+- Ne nécessite pas la connaissance de la structure MVC
+
+## Points négatifs
+- Peut devenir complexe à maintenir pour les projets de grande taille
+- Peut être moins adapté pour les projets nécessitant des fonctionnalités avancées
+
+## Avis du dev 
+
+Neutre. c'est une solution simple réalisable. 
 
 --------------------------------------------------------------------------------------------------
 
@@ -86,6 +88,7 @@ Cette solution est réalisable, mais ne répond pas vraiment au besoin.
 # Application
 
 Pour l'application, je peux tenter de faire une application simple de gestion des stocks.
+
 C'est-à-dire une application qui permet juste une visualisation de la base de données et des fonctionnalités basiques (ajout, suppression, modification).
 
 
