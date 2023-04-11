@@ -72,14 +72,25 @@ Neutre. c'est une solution simple réalisable.
 
 --------------------------------------------------------------------------------------------------
 
-#  SOLUTION 4
-- uniquement un site d'affichage
-    - Les plus :
-        - très sommaire
-    - Les moins :
-        - juste pour de l'affichage donc pas de fonctionnalité supplémentaire
+# Solution N°4 - HTML/CSS
 
-Cette solution est réalisable, mais ne répond pas vraiment au besoin.
+## Description
+La solution HTML/CSS est une option simple pour le développement web qui peut être utilisée pour créer des sites web de base. Elle est facile à mettre en place et peut être utilisée pour créer des pages web statiques.
+
+## Points positifs
+- Option simple pour le développement web
+- Facile à mettre en place
+- Peut être utilisée pour créer des pages web statiques
+
+## Points négatifs
+- Peut ne pas être adaptée pour les projets nécessitant des fonctionnalités avancées
+- Peut devenir rapidement obsolète
+- Peut être limitée dans sa capacité à gérer les données et à créer des pages web dynamiques
+
+## Avis du dev
+
+c'est non, aucun intérêt mais réalisable :) 
+
 
 
 
