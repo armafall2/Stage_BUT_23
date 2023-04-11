@@ -5,8 +5,10 @@
 
 
 
-- [ ]
+
 # Solution N°1 - Vue.js
+
+- [ ] Ma case à cocher
 
 ## Description
 La solution Vue.js permet de créer des sites web responsives, dynamiques et conviviaux. Elle est compatible avec de nombreux langages de programmation et peut être utilisée pour créer des applications multiplateformes. Elle facilite également la création d'interfaces utilisateur réactives et interactives.
