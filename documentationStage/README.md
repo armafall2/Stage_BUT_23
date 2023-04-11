@@ -21,29 +21,32 @@ La solution Vue.js permet de créer des sites web responsives, dynamiques et con
 - Nécessite une autoformation
 - Certaines fonctionnalités peuvent nécessiter l'utilisation de bibliothèques tierce
 
-##Conclusion 
+##Avis du dev 
 Bonne solution complexe qui représente un vrai défi. J'aimerais beaucoup réaliser cette solution. la maîtrise de ces outils pourrais être un vrai plus. 
 
 
 -----------------------------------------------
 ---------------------------------------------------
 
-#  SOLUTION 2
-    - utilisation de l'architecture MVC
-    - Les plus : 
-        - utilisation de langages simples tels que : 
-            - PHP
-            - HTML
-            - JSON
-        - site fluide et responsive (multiplateforme) avec une architecture compréhensible
-        - site robuste et fiable
-        - solution très traditionnelle
+# Solution N°2 - HTML/CSS/PHP avec MVC
 
-    - Les moins :
-        - Assez fastidieux à mettre en place
-        - basé principalement sur du PHP qui n'est pas un langage où je suis performant
-        
-Cette solution est réalisable, cependant il n'y aura pas vraiment d'apprentissage.
+## Description
+La solution HTML/CSS/PHP avec MVC (Modèle-Vue-Contrôleur) est un cadre de développement web qui permet de créer des sites web robustes et évolutifs. Elle facilite la gestion des données et la création de pages web dynamiques.
+
+## Points positifs
+- Permet de créer des sites web robustes et évolutifs
+- Facilite la création de pages web dynamiques
+- Utilise un modèle éprouvé (MVC)
+
+## Points négatifs
+- Nécessite une certaine expertise en développement web et une connaissance de la structure MVC
+- Peut être plus complexe à mettre en place que d'autres options de développement web
+- Peut nécessiter plus de temps pour le développement initial
+
+##Avis du dev
+
+MVC = red flag 🚩
+j'aime pas du tout
 
 --------------------------------------------------------------------------------------------------
 
