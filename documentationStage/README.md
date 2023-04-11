@@ -21,7 +21,7 @@ La solution Vue.js permet de créer des sites web responsives, dynamiques et con
 - Nécessite une autoformation
 - Certaines fonctionnalités peuvent nécessiter l'utilisation de bibliothèques tierce
 
-##Avis du dev 
+## Avis du dev 
 Bonne solution complexe qui représente un vrai défi. J'aimerais beaucoup réaliser cette solution. la maîtrise de ces outils pourrais être un vrai plus. 
 
 
@@ -43,7 +43,7 @@ La solution HTML/CSS/PHP avec MVC (Modèle-Vue-Contrôleur) est un cadre de dév
 - Peut être plus complexe à mettre en place que d'autres options de développement web
 - Peut nécessiter plus de temps pour le développement initial
 
-##Avis du dev
+## Avis du dev
 
 MVC = red flag 🚩
 j'aime pas du tout
