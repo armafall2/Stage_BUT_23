@@ -96,6 +96,46 @@ c'est non, aucun intérêt mais réalisable :)
 
 --------------------------------------------------------------------------------------------------
 
+
+# Solution N°5 - React.js
+
+## Description
+La solution React.js est une bibliothèque JavaScript open source qui permet de créer des interfaces utilisateur interactives et dynamiques. Elle est utilisée par de nombreuses grandes entreprises et est devenue très populaire auprès des développeurs web.
+
+## Points positifs
+- Crée des interfaces utilisateur interactives et dynamiques
+- Populaire auprès des développeurs web
+- Utilisé par de nombreuses grandes entreprises
+- Dispose d'une grande communauté de développeurs
+
+## Points négatifs
+- Peut nécessiter une courbe d'apprentissage plus longue pour les développeurs moins expérimentés
+- L'utilisation de React.js nécessite une bonne compréhension de JavaScript et des concepts de programmation orientée objet
+- Ne dispose pas de fonctionnalités serveur intégrées et doit être utilisé avec un back-end séparé
+
+## Avis du dev
+
+Franchement je ne connais pas du tout. 
+
+--------------------------------------------------------------------------------------------------
+
+# Précision supplémentaires
+
+Vue.JS et React.JS fonctionne sur le même principe.
+Il permette de fluidifier énormément un site Web. 
+il faut savoir que l'html (qui permet de faire des sites web) se présente sous la forme suivante :
+- head qui contient des métadonnées (comme la langue de la page par exemple, ici français), le titre de la page, la façon, les dépendance et etc
+
+- le body qui contient le corps de la page. En gros, c'est la ou tout ce qui est afficher à l'ecran est. 
+
+- le footer qui contient le pied de page (comme par exemple liens de contact et etc) qui est optionnel
+
+Pour chaque page il y a head et body obligatoirement. 
+
+vue JS et react JS rende le site fluide car il se contente d'avoir une seul page html, donc un seul head, body et éventuellement footer et de modifier le contenu du body en fonction des actions réaliser. Et tout en instantané. 
+
+--------------------------------------------------------------------------------------------------
+
 # Application
 
 Pour l'application, je peux tenter de faire une application simple de gestion des stocks.
