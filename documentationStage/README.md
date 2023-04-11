@@ -5,8 +5,8 @@
 
 
 
-
-# [ ] Solution N°1 - Vue.js
+[ ]
+# Solution N°1 - Vue.js
 
 ## Description
 La solution Vue.js permet de créer des sites web responsives, dynamiques et conviviaux. Elle est compatible avec de nombreux langages de programmation et peut être utilisée pour créer des applications multiplateformes. Elle facilite également la création d'interfaces utilisateur réactives et interactives.
@@ -29,7 +29,7 @@ Bonne solution complexe qui représente un vrai défi. J'aimerais beaucoup réal
 -----------------------------------------------
 ---------------------------------------------------
 
-# [ ] Solution N°2 - HTML/CSS/PHP avec MVC
+# Solution N°2 - HTML/CSS/PHP avec MVC
 
 ## Description
 La solution HTML/CSS/PHP avec MVC (Modèle-Vue-Contrôleur) est un cadre de développement web qui permet de créer des sites web robustes et évolutifs. Elle facilite la gestion des données et la création de pages web dynamiques.
@@ -51,7 +51,7 @@ j'aime pas du tout
 
 --------------------------------------------------------------------------------------------------
 
-# [ ] Solution N°3 - HTML/CSS/PHP sans MVC
+# Solution N°3 - HTML/CSS/PHP sans MVC
 
 ## Description
 La solution HTML/CSS/PHP sans MVC est une option de développement web simple et flexible qui peut être utilisée pour créer des sites web de toutes tailles. Elle ne nécessite pas la connaissance de la structure MVC et peut être mise en place rapidement.
@@ -72,7 +72,7 @@ Neutre. c'est une solution simple réalisable.
 
 --------------------------------------------------------------------------------------------------
 
-# [ ] Solution N°4 - HTML/CSS
+# Solution N°4 - HTML/CSS
 
 ## Description
 La solution HTML/CSS est une option simple pour le développement web qui peut être utilisée pour créer des sites web de base. Elle est facile à mettre en place et peut être utilisée pour créer des pages web statiques.
@@ -97,7 +97,7 @@ c'est non, aucun intérêt mais réalisable :)
 --------------------------------------------------------------------------------------------------
 
 
-# [ ] Solution N°5 - React.js
+# Solution N°5 - React.js
 
 ## Description
 La solution React.js est une bibliothèque JavaScript open source qui permet de créer des interfaces utilisateur interactives et dynamiques. Elle est utilisée par de nombreuses grandes entreprises et est devenue très populaire auprès des développeurs web.
