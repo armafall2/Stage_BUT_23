@@ -5,31 +5,28 @@
 
 
 
-# SOLUTION 1 :
-    - utilisation de Vue.js
-    - Les plus : 
-        - site fluide et responsive (multiplateforme) avec une architecture compréhensible
-        - site robuste et fiable
-        - utilisation de nombreux langages tels que : 
-            - HTML
-            - CSS
-            - JavaScript
-            - Vue.js
-            - JSON
-            - PHP
-        - site dynamique
-    
-    - Les moins :
-        - Autoformation requise, ce qui n'est pas quelque chose que j'ai vraiment vu
-        - assez complexe mais peut être bien une fois maîtrisé
 
-- utilisation d'une base de données de type Oracle ou phpMyAdmin (plutôt phpMyAdmin car gratuit mais un peu moins fiable)
+# Solution N°1 - Vue.js
 
-Cette solution permettra d'avoir un site robuste, responsive, fiable, dynamique et ergonomique tout 
-en étant assez simple de conception. C'est le défi que j'aimerais relever.
+## Description
+La solution Vue.js permet de créer des sites web responsives, dynamiques et conviviaux. Elle est compatible avec de nombreux langages de programmation et peut être utilisée pour créer des applications multiplateformes. Elle facilite également la création d'interfaces utilisateur réactives et interactives.
+
+## Points positifs
+- Crée des sites web responsives, dynamiques et conviviaux
+- Compatible avec de nombreux langages de programmation
+- Peut être utilisé pour créer des applications multiplateformes
+- Facilite la création d'interfaces utilisateur réactives et interactives
+
+## Points négatifs
+- Nécessite une autoformation
+- Certaines fonctionnalités peuvent nécessiter l'utilisation de bibliothèques tierce
+
+##Conclusion 
+Bonne solution complexe qui représente un vrai défi. J'aimerais beaucoup réaliser cette solution. la maîtrise de ces outils pourrais être un vrai plus. 
 
 
---------------------------------------------------------------------------------------------------
+-----------------------------------------------
+---------------------------------------------------
 
 #  SOLUTION 2
     - utilisation de l'architecture MVC
