@@ -5,7 +5,7 @@
 
 
 
-[ ]
+- [ ]
 # Solution N°1 - Vue.js
 
 ## Description
