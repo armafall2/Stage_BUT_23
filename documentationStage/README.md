@@ -1,3 +1,9 @@
+# Présentation
+
+- Bien tout lire avant de choisir
+- Pour choisir : éditer le fichier, remplacer l'espace blanc dans la case [ ] par [x]
+
+
 # Technologie du site
 
 - Pour toute les solutions :
