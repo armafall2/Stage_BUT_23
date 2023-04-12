@@ -10,3 +10,6 @@
 |---------------|--------|--------------|
 | Firebase      | 1      | 1234ABCD     |
 |---------------|--------|--------------|
+
+
+https://console.firebase.google.com/u/3/project/stage2023-9c0d5/overview
