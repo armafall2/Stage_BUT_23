@@ -1,13 +1,17 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import Presentation from './components/Presentation.vue'
+import navbar from '@/components/navbar.vue'
+import pageAccueil from '@/components/accueil.vue'
 </script>
 
 <template>
   <header>
 
     <div class="wrapper">
-      <Presentation />
+
+      <navbar />
+      <pageAccueil />
+      
      </div>
   </header>
 

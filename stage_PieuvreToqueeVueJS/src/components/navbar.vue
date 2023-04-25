@@ -1,15 +1,15 @@
 <template>
   <div class="navbar">
        
-   <a href="#">
-     <img src="src/assets/PieuvreToquéeLogoFond.svg" alt="Logo" class="logo">
+   <a href="/">
+     <img src="@/assets/PieuvreToquéeLogoFond.svg" alt="Logo" class="logo">
    </a>
        <div class="nav-wrapper">
          <nav>
            <ul class="nav-links">
-             <li><a href="#">Accueil</a></li>
+             <li><a href="/">Accueil</a></li>
              <li><a href="#">Devis</a></li>
-             <li><a href="#">Saumon &agrave; la coupe</a></li>
+             <li><a href="#">&Agrave; la coupe</a></li>
              <li><a href="#">Calendrier</a></li>
              <li><a href="#">En direct</a></li>
            </ul>
@@ -22,7 +22,7 @@
  <style scoped>
  @font-face {
    font-family: "Adlery";
-   src: url("src/font/Adlery_TRIAL.ttf") format("truetype")
+   src: url("@/font/Adlery_TRIAL.ttf") format("truetype")
  }
 
  .navbar { 
@@ -34,11 +34,14 @@
    width: 100%;
    padding: 10px 20px;
    box-sizing: border-box;
+   background-color: #dd574e;
+   box-shadow: 0px 3px 20px #000000;
  }
  
  .logo {
   height: 10em;
   padding: 0.1px;
+
 }
 
  .nav-wrapper {
@@ -61,26 +64,24 @@
    font-size: 250%;
    color: #fff;
    font-family: "Adlery";
+   
  }
  
  ul.nav-links > li > a:hover {
+  transition: 0.5s;
    font-weight: bold;
-   color:  #dd574e;
- }
- 
- #decoupeBar {
-   border-style: outset 20px;
+   color:  #000;
+   padding-right: 8px;
+   padding-left: 8px;
  }
 
-
- 
-
- </style>
- 
-
- <--! 
+/*
  #2d2b52
  #e53124 
  #b2c9e0
  #dd574e
- !>
+ */
+
+ </style>
+ 
+
