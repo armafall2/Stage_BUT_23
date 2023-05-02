@@ -1,26 +1,26 @@
 <template>
     <div class="container">
-        <div class="PageAccueilStyle">
-            <PageAccueil />
+        <div class="PageDevisStyle">
+            <PageDevis />
         </div>
     </div>
 </template>
+
 <script>
-import PageAccueil from '@/components/accueil.vue'
+import PageDevis from '@/components/devis.vue'
 
 export default {
-    name: 'VAccueil',
+    name: 'VDevis',
     components: {
-        PageAccueil
+        PageDevis
     },
 };
 </script>
+
 <style scoped>
-.PageAccueilStyle {
+.PageDevisStyle{
     position: static;
     margin-top: 195px;
     padding: 10px;
-
 }
-
 </style>
