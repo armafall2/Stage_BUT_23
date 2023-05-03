@@ -1,5 +1,5 @@
 <template>
-
+<div class = " wrapper">
         <div class="carteStatique" >
           <a new href="https://goo.gl/maps/WDKBzWwnjG49jgSr5" target="_blank">
       <!--<img  :src="imageUrl" alt="Mapbox Static Image">-->
@@ -77,6 +77,7 @@
 
     </p>
   </div>
+</div>
 </template>
 
 <script>
@@ -118,6 +119,9 @@ export default {
 };
 </script>
 <style>
+
+@media (min-width: 1000px) {
+
 .carteStatique {
   width: 300px;
   height: 400px;
@@ -148,10 +152,12 @@ export default {
 
 .slide-image {
 
-  width: 400px;
+  width: 50%;
   height: 500px;
   overflow: visible;
-  object-fit: cover
+  object-fit: cover;
+  padding:5%;
+  align-self: center;
 }
 
 .FumaisonExplication {
@@ -194,8 +200,14 @@ export default {
   font-size: large;
   color: white;
   text-align: justify;
+  width: 75%;
 }
-
+}
+@media (max-width: 999px) {
+.wrapper{
+  visibility: hidden;
+}
+}
 
 
 </style>
