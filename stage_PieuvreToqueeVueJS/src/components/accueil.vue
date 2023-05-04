@@ -3,14 +3,7 @@
         <div class="carteStatique" >
           <a new href="https://goo.gl/maps/WDKBzWwnjG49jgSr5" target="_blank">
       <!--<img  :src="imageUrl" alt="Mapbox Static Image">-->
-      <svg width="100%" height="100%" viewBox="0 0 300 400" stroke="black">
-          <rect x="0" y="0" width="300" height="400" fill="white" />
-          <path d="M 0 200 L 150 200 L 190 280" stroke="black" stroke-width="3" fill="none" />
-          <path d="M 180 255 L 350 80 " stroke="black" stroke-width="3" />
-          <circle cx="150" cy="140" r="30" fill="green" />
-          <path d="M 180 140 L 150 200 L 120 140 " fill="green" />
-          <circle cx="150" cy="140" r="10" fill="white" />
-        </svg>
+      <img src="@/assets/MapBoxGrace.jfif">
     </a>
 
     <p class="pStyle">
@@ -121,11 +114,14 @@ export default {
 <style>
 
 @media (min-width: 1000px) {
+html {
+  font-size: 20px;
+}
 
 .carteStatique {
-  width: 300px;
-  height: 400px;
-  padding-right: 20px;
+  width: 16rem;
+  height: 21rem;
+  padding-right: 1.25rem;
   margin-top: 0px;
   display: inline-block;
   vertical-align: top;
@@ -136,49 +132,46 @@ export default {
   display: inline-table;
   position: relative;
   box-shadow: 0px 3px 20px #000000;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 1.25rem;
+  padding-top: 1.25rem;
 }
 
 .pStyle {
   color: white;
   font-family: 'Dosis';
   margin: auto;
-  padding-top: 10px;
+  padding-top: 1rem;
   box-shadow: 0px 3px 20px #000000;
-  padding-bottom: 26px;
+  padding-bottom: 1rem;
   text-align: center;
+  font-size: 1.2rem;
 }
 
 .slide-image {
 
-  width: 50%;
+  width: 100%;
   height: 500px;
   overflow: visible;
-  object-fit: cover;
-  padding:5%;
+  object-fit: contain;
   align-self: center;
+  max-width: 95%;
+  max-height: 100%;
 }
 
 .FumaisonExplication {
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin-right: 1.25rem;
+  margin-left: 1.25rem;
+  margin-bottom: 1.25rem;
   display: inline-block;
   color: white;
   text-align: center;
-  width: auto;
-  height: 400px;
   position: absolute;
-
 }
 
 .FumaisonExplication>p {
   text-align: justify;
-
   font-family: 'Dosis';
-  font-size: large;
-
+  font-size: 1.2rem;
 }
 
 .FumaisonExplication>h3 {
@@ -194,8 +187,8 @@ export default {
 }
 
 .Presentation {
-  margin-top: 30px;
-  padding: 10px;
+  margin-top: 1rem;
+  padding: 0.5rem;
   font-family: 'Dosis';
   font-size: large;
   color: white;
@@ -204,9 +197,7 @@ export default {
 }
 }
 @media (max-width: 999px) {
-.wrapper{
-  visibility: hidden;
-}
+
 }
 
 

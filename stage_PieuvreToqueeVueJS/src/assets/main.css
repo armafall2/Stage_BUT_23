@@ -1,7 +1,7 @@
 @import './base.css';
 
 body {
-background: var(--color-background);
+background-color: var(--color-background);
 }
 
 a {

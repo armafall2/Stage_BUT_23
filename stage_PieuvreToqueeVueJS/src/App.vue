@@ -7,3 +7,13 @@ import Navbar from '@/components/navbar.vue'
   <Navbar/>
   <RouterView />
 </template>
+
+<script>
+export default {
+  mounted() {
+    document.addEventListener('touchmove', function (event) {
+      if (event.scale !== 1) { event.preventDefault(); }
+    }, false);
+  }
+}
+</script>
