@@ -174,9 +174,9 @@ html {
   font-size: 1.2rem;
 }
 
-.FumaisonExplication>h3 {
+.FumaisonExplication> h3 {
   font-family: "Adlery";
-  font-size: x-large;
+  font-size: 1.5rem;
   background-color: var(--salmon);
   margin-top: 0;
   box-shadow: 0px 3px 20px #000000;

@@ -5,9 +5,11 @@
         <ul class="nav-links" :class="{ active: isDropdownOpen }">
           <li class="nav-element nav-element-1"><a :class="{ active: currentRoute === '/' }" href="/">Accueil</a></li>
           <li class="nav-element nav-element-2"><a :class="{ active: currentRoute === '/devis' }" href="/devis">Devis</a> </li>
-          <li class="nav-element nav-element-3"><a href="#">&Agrave; la coupe</a></li>
+          <li class="nav-element nav-element-3"><a href="#">Fumaison</a></li>
           <li class="nav-element nav-element-4"><a href="#">Calendrier</a></li>
           <li class="nav-element nav-element-5"><a href="#">En direct </a></li>
+          <li class="nav-element nav-element-5"><a href="#">Galerie </a></li>
+          <li class="nav-element nav-element-5"><a href="#">Contact </a></li>
         </ul>
     </div>
   </div>
@@ -147,6 +149,7 @@
   ul.nav-links>li>a {
     font-size: 250%;
     color: #fff;
+    padding-left: 1rem;
     font-family: "Adlery";
     transition: padding-right 0.5s, padding-left 0.5s;
   }
