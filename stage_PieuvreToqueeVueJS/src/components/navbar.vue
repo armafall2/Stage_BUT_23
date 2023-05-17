@@ -8,8 +8,9 @@
           <li class="nav-element nav-element-3"><a href="#">Fumaison</a></li>
           <li class="nav-element nav-element-4"><a href="#">Calendrier</a></li>
           <li class="nav-element nav-element-5"><a href="#">En direct </a></li>
-          <li class="nav-element nav-element-5"><a href="#">Galerie </a></li>
-          <li class="nav-element nav-element-5"><a href="#">Contact </a></li>
+          <li class="nav-element nav-element-6"><a href="#">Galerie </a></li>
+          <li class="nav-element nav-element-7"><a href="#">Contact </a></li>
+          <li class="nav-element nav-element-8"><a :class="{ active: currentRoute === '/test' }" href="/test">Test</a></li>
         </ul>
     </div>
   </div>
