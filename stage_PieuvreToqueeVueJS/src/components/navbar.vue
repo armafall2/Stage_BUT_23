@@ -1,19 +1,20 @@
 <template>
   <div class="navbar" @mouseleave="closeDropdown" @click="toggleDropdown">
-    <img src="@/assets/PieuvreToquéeLogoFond.svg" alt="Logo" class="logo"/>
+    <img src="/src/assets/PieuvreToqueeLogoFond.svg" alt="Logo" class="logo"/>
     <div class="nav-wrapper">
         <ul class="nav-links" :class="{ active: isDropdownOpen }">
           <li class="nav-element nav-element-1"><a :class="{ active: currentRoute === '/' }" href="/">Accueil</a></li>
           <li class="nav-element nav-element-2"><a :class="{ active: currentRoute === '/devis' }" href="/devis">Devis</a> </li>
           <li class="nav-element nav-element-3"><a href="#">Fumaison</a></li>
-          <li class="nav-element nav-element-4"><a href="#">Calendrier</a></li>
+          <li class="nav-element nav-element-4"><a :class="{ active: currentRoute === '/calendrier' }" href="/calendrier">Calendrier</a></li>
           <li class="nav-element nav-element-5"><a href="#">En direct </a></li>
           <li class="nav-element nav-element-6"><a href="#">Galerie </a></li>
           <li class="nav-element nav-element-7"><a href="#">Contact </a></li>
-          <li class="nav-element nav-element-8"><a :class="{ active: currentRoute === '/test' }" href="/test">Test</a></li>
-        </ul>
+          </ul>
+        
     </div>
   </div>
+
 </template>
 <style scoped>
 

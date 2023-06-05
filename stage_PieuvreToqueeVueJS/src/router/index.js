@@ -1,8 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import PageAccueil from '@/view/v-accueil.vue'
-import PageDevis from '@/view/v-devis.vue'
-import madameLoick from '@/view/easterEgg.vue'
-import testPage from '@/view/v-test.vue'
+import PageAccueil from '/src/view/v-accueil.vue'
+import PageDevis from '/src/view/v-devis.vue'
+import madameLoick from '/src/view/easterEgg.vue'
+import testPage from '/src/view/v-test.vue'
+import PageCalendrier from '/src/view/v-calendrier.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -27,6 +28,11 @@ const router = createRouter({
       name : 'Page test',
       component: testPage
 
+    },
+    {
+      path : '/calendrier',
+      name : 'Page Calendrier',
+      component: PageCalendrier
     }
   ]
 })

@@ -30,7 +30,7 @@
         <img src="../assets/saumonFumant.png" class="slide-image" title="Les filets sortant du fumoir">
       </Slide>
       <Slide v-for="slide in 1" :key="slide">
-        <img src="../assets/trancheFumé.png" class="slide-image" title="Bon appétit !">
+        <img src="../assets/trancheFume.png" class="slide-image" title="Bon appétit !">
       </Slide>
       <template #addons>
 
